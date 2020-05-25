@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Solucion.Forms
+namespace WindowsFormsApp1
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Solucion.Forms
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmExpendedora());
+            Application.Run(new Form1());
         }
     }
 }

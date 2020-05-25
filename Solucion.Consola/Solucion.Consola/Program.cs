@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Solucion.LibreriaNegocio;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -105,6 +106,7 @@ namespace Solucion.Consola
                 Console.WriteLine(ficha);
             }
         }
+    
 
     }
 }

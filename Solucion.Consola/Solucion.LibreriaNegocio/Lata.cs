@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Solucion.LibreriaNegocio
 {
-    class Lata
+    public class Lata
     {
         private string codigo;
         private string nombre;

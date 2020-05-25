@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Solucion.LibreriaNegocio
 {
-    class Expendedora
+    public class Expendedora
     {
         private List<Lata> latas;
         private string proveedor;
